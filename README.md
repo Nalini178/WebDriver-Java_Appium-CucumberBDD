@@ -13,4 +13,4 @@ Native Android and iOS apps
 Android Chrome browser
 iOS Safari browser
 Page Object Model
-Contains sample test scenarios in cucumber
+Contains sample test scenarios in cucumber.
